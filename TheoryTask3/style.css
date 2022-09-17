@@ -1,0 +1,19 @@
+.container {
+    width: 80vh;
+    margin-top: 10vh;
+}
+.blue {
+    background-color:cornflowerblue;
+}
+.gallery {
+    height: 200px;
+}
+.descr_rel {
+    height: 100px;
+}
+.title {
+    height: 20%;
+}
+.buybox {
+    height: 80%;
+}
