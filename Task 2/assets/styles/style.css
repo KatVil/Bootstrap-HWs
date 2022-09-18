@@ -1,0 +1,30 @@
+h1{
+    font-size: 10px; /*почему-то не работает*/
+}
+h2{
+    font-size: 5em;
+}
+.gray{
+    background-color:rgb(179, 176, 176) ;
+}
+.footer-name{
+    display: flex;
+    margin-left: 800px;
+}
+.menu{
+    display: flex;
+    margin-left: 900px;
+}
+.btn1st{
+    display: flex;
+    margin-right: 920px;
+}
+menu a{
+    color:rgb(170, 170, 170);
+}
+menu a:hover{
+    cursor:pointer;
+    color:white;
+    text-decoration: none;
+
+}
